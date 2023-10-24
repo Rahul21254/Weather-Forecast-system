@@ -93,15 +93,6 @@ wxPython<br/>
 
 **
 
-## User Guide:
-
-**
-**Step 1**: Download & Install Python 3.6<br/>
-**Step 2**: Go to Terminal & Download Python Library (py -3.6 –m pip install ____)<br/>
-**Step 3**: Go to ‘Weather_Prediction’ folder & click GUI.cpython-36<br/>
-**Step 4**: The forecast result will be stored in ‘prediction’ folder. The prediction statistics will be stored in ‘statistics’ folder<br/>
-
-**
 
 ## Developer Tools:
 
